@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+
+body {
+    background-color: azure;
+}
+
+img[src] {
+    float: left;
+    height: 260px;
+    width: 260px;
+    margin-right: 50px;
+}
+
+#Contacto {
+    float: left;
+    border-bottom: 1px solid;
+    text-align: center;
+}
+
+#Objetivo {
+    float: right;
+    text-align: center;
+}
+
+#Preparacion-academica {
+    text-align: center;
+}
+
+#Idiomas {
+    text-align: center;
+}
+
+#Habilidades {
+    list-style-position: inside;
+    text-align: center;
+}
+
+#Habilidades li {
+    font-size: 23px;
+}
+
+p {
+    font-size: 23px;
+}
+
+#Iconos {
+    margin-left: 100px;
+}
+
+#Iconos img[src] {
+    height: 230px;
+    width: 230px;
+}
+
+#Conocimientos {
+    float: right;
+}
+
+#Conocimientos ul {
+    float: right;
+    margin-right: 200px;
+    font-size: 23px;
+}
+
+html {
+    border: 2px solid rgb(105, 105, 202);
+}
