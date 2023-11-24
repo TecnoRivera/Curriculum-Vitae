@@ -14,31 +14,31 @@ img[src] {
     margin-right: 50px;
 }
 
-#Contacto {
+.Contacto {
     float: left;
     border-bottom: 1px solid;
     text-align: center;
 }
 
-#Objetivo {
+.Objetivo {
     float: right;
     text-align: center;
 }
 
-#Preparacion-academica {
+.Preparacion-academica {
     text-align: center;
 }
 
-#Idiomas {
+.Idiomas {
     text-align: center;
 }
 
-#Habilidades {
+.Habilidades {
     list-style-position: inside;
     text-align: center;
 }
 
-#Habilidades li {
+.Habilidades li {
     font-size: 23px;
 }
 
@@ -46,20 +46,20 @@ p {
     font-size: 23px;
 }
 
-#Iconos {
+.Iconos {
     margin-left: 100px;
 }
 
-#Iconos img[src] {
+.Iconos img[src] {
     height: 230px;
     width: 230px;
 }
 
-#Conocimientos {
+.Conocimientos {
     float: right;
 }
 
-#Conocimientos ul {
+.Conocimientos ul {
     float: right;
     margin-right: 200px;
     font-size: 23px;
